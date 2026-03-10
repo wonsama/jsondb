@@ -1,31 +1,25 @@
 {
   "posts": [
     {
-      "id": 1,
+      "r": 255,
+      "g": 0,
+      "b": 0,
       "title": "wonsama"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "r": 0,
+      "g": 255,
+      "b": 0,
+      "title": "wonsama"
     },
     {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "r": 0,
+      "g": 0,
+      "b": 255,
+      "title": "wonsama"
     },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
   ],
-  "profile": {
-    "name": "typicode"
+  "info": {
+    "length": 3
   }
 }
