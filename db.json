@@ -2,14 +2,7 @@
   "posts": [
     { 
       "id": 1,
-      "r": "255",
-      "g": "0",
-      "b": "0",
       "title": "wonsama"
     }
-  ],
-  "profile": {
-    "name": "typicode",
-    "length": "1"
-  }
+  ]
 }
